@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/xrandr --output HDMI-1 --mode 1920x1080
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Set Resolution
+Comment=Automatically set 1920x1080 resolution on HDMI-1 at startup
