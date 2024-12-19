@@ -1,7 +1,7 @@
 # Resolution Setup for 1920x1080
 
 This repository contains the logic to set the screen resolution to **1920x1080** at login using Budgie Desktop's **autostart feature**.
-On my raspberry pi 4b running BareBoat Necessities Operating System. I had trouble with evertime I connected to a difference screen I would have to adjust something. This seems to have fixed it. 
+On my raspberry pi 4b running BareBoat Necessities Operating System. I had trouble with evertime I connected to a different screen I would have to adjust something. This seems to have fixed it. 
 ## 📂 Files Included
 | **File**                  | **Location**               | **Purpose**                              |
 |--------------------------|----------------------------|------------------------------------------|
